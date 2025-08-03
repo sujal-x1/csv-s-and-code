@@ -1,7 +1,31 @@
 # Dataset link
 https://kilthub.cmu.edu/ndownloader/files/24844280
-# literature_survey/details about dataset
+
+# details about dataset
 https://www.sei.cmu.edu/library/insider-threat-test-dataset/
+
+# Literature survey (cross check krlo)🖋️
+
+ https://etasr.com/index.php/ETASR/article/view/6911
+
+ https://ieeexplore.ieee.org/abstract/document/9165337/
+
+ https://ieeexplore.ieee.org/abstract/document/10445123/
+
+https://ieeexplore.ieee.org/abstract/document/11075748/
+
+http://balticpapers.com/index.php/bjmr/article/view/8
+
+https://ieeexplore.ieee.org/abstract/document/10433132/
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394230600.ch12
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259337
+
+https://link.springer.com/article/10.1007/s12652-023-04581-1
+
+http://www.yuktabpublisher.com/index.php/TCT/article/view/171
+
 # sidenotes
 --i only tried these files🖋️ 
 
