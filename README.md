@@ -1,7 +1,7 @@
 # Dataset link
 https://kilthub.cmu.edu/ndownloader/files/24844280
 # sidenotes
-i only used these files
+i only tried these files
 logon.csv")
 device.csv")
 file.csv"
